@@ -1,0 +1,16 @@
+target/
+config.properties
+*.class
+*.log
+.idea/
+.classpath
+.project
+.settings/
+.DS_Store
+
+dados/
+*.sql.backup
+*.mv.db
+*.trace.db
+*.iml
+.vscode/
