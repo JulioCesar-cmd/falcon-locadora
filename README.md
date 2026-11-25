@@ -1,6 +1,6 @@
 # Falcon Locadora
 
-Aplicação desktop em Java para administrar uma locadora de veículos de frete. Cadastre clientes e veículos, consulte a disponibilidade, confirme reservas e acompanhe retiradas, devoluções e multas. Os relatórios mostram a frota e a demanda por categoria. O projeto foi desenvolvido como trabalho prático da disciplina de Programação Orientada a Objetos.
+Aplicação desktop em Java para administrar uma locadora de veículos de frete. Cadastre clientes e veículos, consulte a disponibilidade, confirme reservas e acompanhe retiradas, devoluções e multas. Os relatórios mostram a frota e a demanda por categoria. O projeto foi desenvolvido como Trabalho Prático 1 (TP1) da disciplina de **Programação Orientada a Objetos (POO)**.
 
 ## Rodar a demonstração com H2
 
